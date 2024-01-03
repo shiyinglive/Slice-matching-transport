@@ -1,6 +1,6 @@
 # jmm2024-1
 my jmm 2024 first repo
-bold word, " bold "
+bold word, "bold"
 
 $x^2$
 
