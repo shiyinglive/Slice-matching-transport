@@ -1,9 +1,3 @@
-# jmm2024-1
-my jmm 2024 first repo
-bold word, **bold**
+# SliceMatchingTransport
 
-$x^2$
-
-<https://code4math.org>
-
-$x+y=z$
+This repository is the companion repository for our work **Measure transport via stochastic slicing and matching** by Shiying Li and Caroline Moosmueller. 
