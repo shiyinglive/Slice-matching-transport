@@ -4,7 +4,7 @@
 This repository is the companion repository for our work **Measure transport via stochastic slicing and matching** by Shiying Li and Caroline Moosmueller. 
 
 ## Introduction
-This project includes sample Matlab codes for morphing a source image to a target image using stochastic slice-and-matching transport.
+This project includes sample Matlab codes for morphing a source image to a target image using stochastic slice-and-matching transport. This idea originates from Pitié et al. (2007) in their paper **Automated Colour Grading Using Colour Distribution Transfer**.
 
 - **ImageMorph_SliceMatching.m**: Tests the iterative scheme in our study for morphing a source image to a target image. It produces plots of relative error from the morphed images at different iterations compared to the target image.
 
