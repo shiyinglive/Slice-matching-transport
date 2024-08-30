@@ -9,8 +9,8 @@ This project includes sample Matlab codes for morphing a source image to a targe
 - **ImageMorph_SliceMatching.m**: Tests the iterative scheme in our study for morphing a source image to a target image. It produces plots of relative error from the morphed images at different iterations compared to the target image.
 
 - **Supporting Functions**: 
-  - **slicetransport_matrix.m**: Performs one-step *matrix-slice transport* from a source image to a target image using two orthogonal angles (resulting in an orthogonal matrix).
+  - **slicetransport_matrix.m**: Performs one-step *matrix-slice transport* from a source image to a target image using two orthogonal angles (resulting in an $2\times 2$ orthogonal matrix).
 
   - **slicetransport_theta.m**: Executes one-step *single-slice transport*, involving only one angle.
   - **plot_error.m**: Plot the relative errors measured in sliced-Wasserstein distances
-  - **SW.m**: Computes the sliced-Wasserstein between two images. 
+  - **SW.m**: Computes the sliced-Wasserstein distance between two images. 
