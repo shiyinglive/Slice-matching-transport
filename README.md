@@ -1,7 +1,7 @@
 
 # SliceMatchingTransport
 
-This repository is the companion repository for our work **Measure transport via stochastic slicing and matching** by Shiying Li and Caroline Moosmueller. 
+This repository is the companion Matlab repository for our work **Measure transport via stochastic slicing and matching** by Shiying Li and Caroline Moosmueller. 
 
 ## Introduction
 This project includes sample Matlab codes for morphing a source image to a target image using stochastic slice-and-matching transport. This idea originates from Pitié et al. (2007) in their paper **Automated Colour Grading Using Colour Distribution Transfer**.
